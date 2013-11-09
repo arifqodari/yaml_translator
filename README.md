@@ -4,7 +4,7 @@ YAML-Translator is a simple Ruby Gem to translate YAML translation file in Rails
 
 ## Release
 
-The current version is 0.1.
+The current version is 0.1.0.
 
 ## How to use it?
 
